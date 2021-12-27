@@ -1,0 +1,2 @@
+# SnapItApprenticeship
+Java Exercises
